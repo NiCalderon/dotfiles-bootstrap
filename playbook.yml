@@ -5,3 +5,6 @@
   - name: Just say hello
     debug:
       msg: Hello World!
+
+  roles:
+  - dotfiles-hello
