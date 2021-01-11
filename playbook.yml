@@ -2,9 +2,9 @@
 - hosts: all
   
   tasks:
-  - name: Just say hello
+  - name: Print message
     debug:
-      msg: Hello World!
+      msg: homedir configuration system
 
   roles:
   - homedir-hierarchy
