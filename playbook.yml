@@ -8,3 +8,4 @@
 
   roles:
   - homedir-hierarchy
+  - homedir-shell
