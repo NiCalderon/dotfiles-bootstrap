@@ -4,3 +4,5 @@
 - src: https://github.com/NiCalderon/homedir-shell.git
   version: main
 
+- src: https://github.com/NiCalderon/homedir-login.git
+  version: main

@@ -7,5 +7,6 @@
       msg: Done configuring home directory
 
   roles:
+  - homedir-login
   - homedir-hierarchy
   - homedir-shell
