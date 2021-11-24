@@ -10,3 +10,5 @@
   - homedir-login
   - homedir-hierarchy
   - homedir-shell
+    vars:
+      shell: zsh
