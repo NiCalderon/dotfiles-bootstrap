@@ -9,6 +9,6 @@
   roles:
   - homedir-login
   - homedir-hierarchy
-  - homedir-shell
+  - homedir-shell:
     vars:
       shell: zsh
