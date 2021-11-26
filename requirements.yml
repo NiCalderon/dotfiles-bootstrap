@@ -1,7 +1,7 @@
 - src: https://github.com/NiCalderon/homedir-hierarchy.git
   version: main
 
-- src: https://github.com/NiCalderon/homedir-shell.git
+- src: https://github.com/NiCalderon/homedir-zsh.git
   version: main
 
 - src: https://github.com/NiCalderon/homedir-login.git

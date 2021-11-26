@@ -9,5 +9,4 @@
   roles:
   - homedir-login
   - homedir-hierarchy
-  - role: homedir-shell
-    shell: zsh
+  - homedir-zsh
